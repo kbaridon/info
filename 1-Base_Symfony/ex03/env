@@ -16,6 +16,6 @@
 
 ###> symfony/framework-bundle ###
 APP_ENV=dev
-APP_SECRET=62fbbca7ec56367877241a720e46a3f1
+APP_SECRET=c38f40af88ba93338156374bc06dc44a
 ###< symfony/framework-bundle ###
 
